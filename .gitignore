@@ -1,0 +1,9 @@
+# Ignora la cartella "!personale" e tutto il suo contenuto
+\!personale/
+
+# Ignora il file "segreti.env" nella root del progetto
+#segreti.env
+
+# Ignora un file specifico in un percorso
+#build/output/temp.txt
+
