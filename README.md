@@ -25,3 +25,15 @@ DeepPrint is not just a repository—it is a platform for **transparent engineer
 ## Philosophy
 
 We believe that open source is a powerful way to deepen knowledge. It is essential that anyone can understand the physical phenomena, verify them, discuss them, and modify the designs. The keywords to keep in mind are **understandable**, **verifiable**, and **shareable**. DeepPrint aims to be a source of knowledge—not just another black-box product to buy.
+
+## Contributing
+
+DeepPrint thrives on community involvement and collaboration. There are several ways you can contribute to this initiative:
+
+- **Active Participation**: Join our community discussions, provide feedback on designs, and contribute your own insights and experiences. Your input helps refine our offerings and enhances the collective knowledge base.
+
+- **Active Contribution**: Engage with the various projects within this repository, including the development of tools like FreeCAD. Your participation in enhancing these tools not only supports the open-source community but also the projects that use them, like DeepPrint.
+
+- **Financial Support**: Consider contributing financially to help us acquire materials for experimentation and further development. Your support enables us to explore new ideas and expand our library of resources.
+
+Every contribution, no matter how small, helps us build a richer, more robust platform for everyone interested in 3D printing and additive manufacturing.
